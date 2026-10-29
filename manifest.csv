@@ -1,0 +1,5 @@
+job_id,subproject,job,sample,thickness_cm,energy_kev,input_file
+MAC/S0_0p005cm_1000keV,MAC,S0_0p005cm_1000keV,S0,0.005,1000.0,S0_0p005cm_1000keV.mac
+MAC/S0_0p005cm_100keV,MAC,S0_0p005cm_100keV,S0,0.005,100.0,S0_0p005cm_100keV.mac
+MAC/S3_0p5cm_1000keV,MAC,S3_0p5cm_1000keV,S3,0.5,1000.0,S3_0p5cm_1000keV.mac
+MAC/S3_1p5cm_100keV,MAC,S3_1p5cm_100keV,S3,1.5,100.0,S3_1p5cm_100keV.mac
